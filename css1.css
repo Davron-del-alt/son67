@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+.spin{
+    background-color: yellow;
+    text-align: center;
+    animation: spinn 2s infinite alternate;
+    margin: 200px 0;
+}
